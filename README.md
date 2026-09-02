@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madhur-prog/DSA-practice-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Madhur-prog/DSA-practice-/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Madhur-prog/DSA-practice-/tree/master/3875-construct-uniform-parity-array-i) |
 | [4024-nearest-available-drone](https://github.com/Madhur-prog/DSA-practice-/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Madhur-prog/DSA-practice-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Madhur-prog/DSA-practice-/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->

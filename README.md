@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/Madhur-prog/DSA-practice-/tree/master/0282-expression-add-operators) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Madhur-prog/DSA-practice-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/Madhur-prog/DSA-practice-/tree/master/0282-expression-add-operators) |
 | [3870-count-commas-in-range](https://github.com/Madhur-prog/DSA-practice-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Madhur-prog/DSA-practice-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Madhur-prog/DSA-practice-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Madhur-prog/DSA-practice-/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Madhur-prog/DSA-practice-/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/Madhur-prog/DSA-practice-/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |

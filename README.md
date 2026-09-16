@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Madhur-prog/DSA-practice-/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Madhur-prog/DSA-practice-/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Madhur-prog/DSA-practice-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madhur-prog/DSA-practice-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -101,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Madhur-prog/DSA-practice-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

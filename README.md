@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Madhur-prog/DSA-practice-/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Madhur-prog/DSA-practice-/tree/master/0282-expression-add-operators) |
 | [3870-count-commas-in-range](https://github.com/Madhur-prog/DSA-practice-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Madhur-prog/DSA-practice-/tree/master/3871-count-commas-in-range-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Madhur-prog/DSA-practice-/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Madhur-prog/DSA-practice-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dancing Links
 |  |
@@ -108,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Madhur-prog/DSA-practice-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

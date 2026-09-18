@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Madhur-prog/DSA-practice-/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Madhur-prog/DSA-practice-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Madhur-prog/DSA-practice-/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/Madhur-prog/DSA-practice-/tree/master/0051-n-queens) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Madhur-prog/DSA-practice-/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Madhur-prog/DSA-practice-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Madhur-prog/DSA-practice-/tree/master/0041-first-missing-positive) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |

@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Madhur-prog/DSA-practice-/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Madhur-prog/DSA-practice-/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Madhur-prog/DSA-practice-/tree/master/0282-expression-add-operators) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Madhur-prog/DSA-practice-/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Madhur-prog/DSA-practice-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

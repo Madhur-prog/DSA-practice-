@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Madhur-prog/DSA-practice-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Madhur-prog/DSA-practice-/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/Madhur-prog/DSA-practice-/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/Madhur-prog/DSA-practice-/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Madhur-prog/DSA-practice-/tree/master/0075-sort-colors) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madhur-prog/DSA-practice-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Madhur-prog/DSA-practice-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Madhur-prog/DSA-practice-/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
@@ -115,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Madhur-prog/DSA-practice-/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Madhur-prog/DSA-practice-/tree/master/0231-power-of-two) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Madhur-prog/DSA-practice-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Madhur-prog/DSA-practice-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhur-prog/DSA-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Madhur-prog/DSA-practice-/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Madhur-prog/DSA-practice-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Madhur-prog/DSA-practice-/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Madhur-prog/DSA-practice-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Madhur-prog/DSA-practice-/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Madhur-prog/DSA-practice-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Madhur-prog/DSA-practice-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Madhur-prog/DSA-practice-/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0268-missing-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madhur-prog/DSA-practice-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Madhur-prog/DSA-practice-/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Madhur-prog/DSA-practice-/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Madhur-prog/DSA-practice-/tree/master/0282-expression-add-operators) |
 | [3870-count-commas-in-range](https://github.com/Madhur-prog/DSA-practice-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Madhur-prog/DSA-practice-/tree/master/3871-count-commas-in-range-ii) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Madhur-prog/DSA-practice-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Madhur-prog/DSA-practice-/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Quicksort
 |  |
@@ -141,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madhur-prog/DSA-practice-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhur-prog/DSA-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

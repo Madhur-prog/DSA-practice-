@@ -7,8 +7,8 @@ class Solution {
         int count = 0;
 
         for (int i = 0; i < 32; i++) {
-            count += (num & 1); 
-            
+             
+            count += (num & 1);
            
             num = num >> 1;
         }

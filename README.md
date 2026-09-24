@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Madhur-prog/DSA-practice-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madhur-prog/DSA-practice-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Madhur-prog/DSA-practice-/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Madhur-prog/DSA-practice-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Madhur-prog/DSA-practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Madhur-prog/DSA-practice-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Madhur-prog/DSA-practice-/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Madhur-prog/DSA-practice-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Madhur-prog/DSA-practice-/tree/master/0282-expression-add-operators) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Madhur-prog/DSA-practice-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Madhur-prog/DSA-practice-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Madhur-prog/DSA-practice-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Madhur-prog/DSA-practice-/tree/master/3875-construct-uniform-parity-array-i) |

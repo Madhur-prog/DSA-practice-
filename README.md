@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhur-prog/DSA-practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Madhur-prog/DSA-practice-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Madhur-prog/DSA-practice-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madhur-prog/DSA-practice-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Madhur-prog/DSA-practice-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Madhur-prog/DSA-practice-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhur-prog/DSA-practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Madhur-prog/DSA-practice-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Madhur-prog/DSA-practice-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Madhur-prog/DSA-practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/Madhur-prog/DSA-practice-/tree/master/0282-expression-add-operators) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Madhur-prog/DSA-practice-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Madhur-prog/DSA-practice-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |

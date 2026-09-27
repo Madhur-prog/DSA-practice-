@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Madhur-prog/DSA-practice-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhur-prog/DSA-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Madhur-prog/DSA-practice-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Madhur-prog/DSA-practice-/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Madhur-prog/DSA-practice-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Madhur-prog/DSA-practice-/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/Madhur-prog/DSA-practice-/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhur-prog/DSA-practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Madhur-prog/DSA-practice-/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madhur-prog/DSA-practice-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |

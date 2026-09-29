@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Madhur-prog/DSA-practice-/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/Madhur-prog/DSA-practice-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Madhur-prog/DSA-practice-/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Madhur-prog/DSA-practice-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Madhur-prog/DSA-practice-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Madhur-prog/DSA-practice-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Madhur-prog/DSA-practice-/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Madhur-prog/DSA-practice-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Madhur-prog/DSA-practice-/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Madhur-prog/DSA-practice-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Madhur-prog/DSA-practice-/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Madhur-prog/DSA-practice-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhur-prog/DSA-practice-/tree/master/0349-intersection-of-two-arrays) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Madhur-prog/DSA-practice-/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Madhur-prog/DSA-practice-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
 ## Algorithm X
 |  |

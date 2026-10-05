@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Madhur-prog/DSA-practice-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Madhur-prog/DSA-practice-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Madhur-prog/DSA-practice-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Madhur-prog/DSA-practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Madhur-prog/DSA-practice-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Madhur-prog/DSA-practice-/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Madhur-prog/DSA-practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -207,8 +209,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Madhur-prog/DSA-practice-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Madhur-prog/DSA-practice-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Madhur-prog/DSA-practice-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Madhur-prog/DSA-practice-/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Madhur-prog/DSA-practice-/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/Madhur-prog/DSA-practice-/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Madhur-prog/DSA-practice-/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Madhur-prog/DSA-practice-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Madhur-prog/DSA-practice-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Madhur-prog/DSA-practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Madhur-prog/DSA-practice-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/Madhur-prog/DSA-practice-/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Madhur-prog/DSA-practice-/tree/master/0301-remove-invalid-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -233,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Madhur-prog/DSA-practice-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Madhur-prog/DSA-practice-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Madhur-prog/DSA-practice-/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhur-prog/DSA-practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0704-binary-search) |
+| [1254-number-of-closed-islands](https://github.com/Madhur-prog/DSA-practice-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Madhur-prog/DSA-practice-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Madhur-prog/DSA-practice-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Madhur-prog/DSA-practice-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Madhur-prog/DSA-practice-/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Madhur-prog/DSA-practice-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Madhur-prog/DSA-practice-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madhur-prog/DSA-practice-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -153,12 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Madhur-prog/DSA-practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Madhur-prog/DSA-practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Madhur-prog/DSA-practice-/tree/master/0543-diameter-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Madhur-prog/DSA-practice-/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Madhur-prog/DSA-practice-/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Madhur-prog/DSA-practice-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
+| [1254-number-of-closed-islands](https://github.com/Madhur-prog/DSA-practice-/tree/master/1254-number-of-closed-islands) |
 ## Algorithm X
 |  |
 | ------- |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Madhur-prog/DSA-practice-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Madhur-prog/DSA-practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Madhur-prog/DSA-practice-/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Madhur-prog/DSA-practice-/tree/master/1254-number-of-closed-islands) |
 ## DP on Trees
 |  |
 | ------- |

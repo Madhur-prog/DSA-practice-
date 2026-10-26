@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Madhur-prog/DSA-practice-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Madhur-prog/DSA-practice-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Madhur-prog/DSA-practice-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Madhur-prog/DSA-practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Madhur-prog/DSA-practice-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Madhur-prog/DSA-practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Madhur-prog/DSA-practice-/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Madhur-prog/DSA-practice-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Madhur-prog/DSA-practice-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Madhur-prog/DSA-practice-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Madhur-prog/DSA-practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Madhur-prog/DSA-practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Madhur-prog/DSA-practice-/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Madhur-prog/DSA-practice-/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Madhur-prog/DSA-practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Madhur-prog/DSA-practice-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/Madhur-prog/DSA-practice-/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Madhur-prog/DSA-practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Algorithm X
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Madhur-prog/DSA-practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Madhur-prog/DSA-practice-/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Madhur-prog/DSA-practice-/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Madhur-prog/DSA-practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## DP on Trees
 |  |
 | ------- |

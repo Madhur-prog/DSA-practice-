@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Madhur-prog/DSA-practice-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Madhur-prog/DSA-practice-/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Madhur-prog/DSA-practice-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Madhur-prog/DSA-practice-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Madhur-prog/DSA-practice-/tree/master/0073-set-matrix-zeroes) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Madhur-prog/DSA-practice-/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Madhur-prog/DSA-practice-/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Madhur-prog/DSA-practice-/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/Madhur-prog/DSA-practice-/tree/master/0282-expression-add-operators) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Madhur-prog/DSA-practice-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Madhur-prog/DSA-practice-/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Madhur-prog/DSA-practice-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Madhur-prog/DSA-practice-/tree/master/0231-power-of-two) |
